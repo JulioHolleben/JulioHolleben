@@ -27,7 +27,8 @@
 <p align="center">
  <ahref="https://www.w3.org/html/" target="_blank" rel="norefer rer"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg" alt="html5" width="47" height="47"/>
  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="css3" width="47" height="47"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:800/1*9tY-QRgJZWgu-bSq6CyiSw.png" alt="css3" width="47" height="47"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=Pv4IGT0TSpt8&format=png" alt="css3" width="47" height="47"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" alt="css3" width="47" height="47"/> </a>
 
 <p align="center">
